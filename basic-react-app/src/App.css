@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  margin:auto 200px;
+}
+.Product{
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  height: 150px;
+  width: 300px;
+  color: black;
+
+}

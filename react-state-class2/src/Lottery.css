@@ -1,0 +1,8 @@
+.ticket{
+    border: 1px solid black;
+    border-radius: 14px;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
